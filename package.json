@@ -1,5 +1,5 @@
 {
-  "name": "closeWindow",
+  "name": "closewindow",
   "version": "0.0.1",
   "description": "Close the active window.",
   "main": "index.js",
