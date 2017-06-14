@@ -1,12 +1,12 @@
 {
   "name": "closeWindow",
   "version": "0.0.1",
-  "description": "",
+  "description": "Close the active window.",
   "main": "index.js",
   "scripts": {
     "test": "semistandard"
   },
-  "author": "",
+  "author": "Jason Stallings <jason@stallin.gs>",
   "license": "MIT",
   "dependencies": {
     "robotjs": "^0.4.7"
