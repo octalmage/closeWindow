@@ -1,0 +1,14 @@
+{
+  "name": "close-window",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  }
+}
