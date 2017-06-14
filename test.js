@@ -1,0 +1,2 @@
+var closeWindow = require('./');
+closeWindow();
