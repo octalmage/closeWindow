@@ -7,4 +7,4 @@ module.exports = function closeWindow () {
   } else {
     robotjs.keyTap('f4', 'alt');
   }
-}
+};
